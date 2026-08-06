@@ -2,6 +2,7 @@
 
 Personal daily budget tracker — installable on iPhone as a home screen app.
 
+
 ## Deploy to GitHub Pages (5 steps)
 
 1. Create a new repo on GitHub (any name, e.g. `budget`)
